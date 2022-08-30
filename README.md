@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @josephburgess
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning back end frameworks
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me josephburgess@gmail.com
