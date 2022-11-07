@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @josephburgess
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning back end frameworks
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me josephburgess@gmail.com
+👋 Hi, I’m @josephburgess
+
+👨‍💻 Software engineer currently enrolled in Makers Academy, due to graduate in March 2023.
+
+📫 Reach me at josephburgess@gmail.com
