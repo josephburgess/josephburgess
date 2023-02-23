@@ -14,7 +14,7 @@ I am currently enrolled at Makers Academy, due to graduate in March 2023, and am
 
 ## Projects 📝
 
-Below is a selection of projects from the past few months, there is a more comprehensive list on my CV or you can just check out my repositories!
+Below is a selection of projects from the past few months at Makers, there is a more comprehensive list on my Github CV!
 
 ### Group Projects
 | Project Name | Description | Technologies Used | Purpose/Goal | Project Duration |
@@ -30,5 +30,5 @@ Below is a selection of projects from the past few months, there is a more compr
 | [Bank Tech Test](https://github.com/josephburgess/bank-tech-test) | A command-line banking application, part of the Tech Test solo week, week 10 of Makers | TypeScript, Jest, ts-node | Focus on a project with less time constraints in order to focus on rigorous TDD and clean readable code. I also took this week as an opportunity to learn TypeScript. | 2 days |
 | [Database Server Tech Test](https://github.com/josephburgess/database-server-tech-test) | A simple express.js database server app, part of the Tech Test solo week, week 10 of Makers | TypeScript, Jest, ts-node | Build on knowledge of express.js for web app routing, HTTP req/res, and controller logic. As with other tech tests this week, focus on clean code and rigorous TDD. | 1 day |
 | [Gilded Rose](https://github.com/josephburgess/gilded-rose) | A refactoring exercise for a legacy codebase, part of the Tech Test solo week, week 10 of Makers | TypeScript, Jest | Practice refactoring skills with an emphasis on clean, well tested code, working with a messy legacy program | 1 day |
-| [Bowling Score Calculator](https://github.com/josephburgess/bowling-challenge-js) | A bowling score calculator command line app, completed as a weekend challenge at the end of week six of Makers | JavaScript, Node.js, Jest | Applying logic from a previously completed challenge to a new language. Heavy emphasis on building TDD skills and familiarity with JavaScript/Jest | 1 week |
+| [Bowling Score Calculator](https://github.com/josephburgess/bowling-challenge-js) | A bowling score calculator command line app, completed as a weekend challenge at the end of week six of Makers | JavaScript, Node.js, Jest | Applying logic from a previously completed challenge to a new language. Heavy emphasis on building TDD skills and familiarity with JavaScript/Jest | 2 days |
 | [Chitter Challenge](https://github.com/josephburgess/chitter-challenge) | A Twitter clone. Weekend challenge at the end of week four of Makers | Ruby, Sinatra, PostgreSQL, ERB, Rspec | Build a web app using Ruby / Sinatra, and consolidate learning of working with databases (PostgreSQL). | 2 days |
