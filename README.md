@@ -23,20 +23,13 @@ I am currently enrolled at Makers Academy, due to graduate in March 2023, and am
 
 Below is a selection of projects from the past few months at Makers, there is a more comprehensive list on my CV linked above.
 
-
-### Group Projects
-| Project Name | Description | Technologies Used | Purpose/Goal | Project Duration |
-|--------------|-------------|-------------------|--------------|-----------------|
-| [Acebook Air](https://github.com/josephburgess/acebook-mern) | A social media app built with the MERN stack | MongoDB, Express.js, React, Node.js, MongoDB Atlas, Mongoose, Render(deployment), Multer, Jest, Cypress | Build a full-stack web application using the MERN stack and improve experience working in an agile, collaborative environment. | 2 weeks |
-| [Makers BnB](https://github.com/abodian/makersbnb-ruby-seed) | An AirBnB clone, our first group engineering project at Makers. Planned and completed in 4 days for our fifth week at Makers academy | Ruby, Sinatra, ActiveRecord, ERB, PostgreSQL, Rspec | Introduction to agile team practices and group work/contributions to Github | 4 days |
-
-### Solo Projects
-
 | Project Name | Description | Technologies Used | Purpose/Goal | Project Duration |
 |--------------|-------------|-------------------|--------------|-----------------|
 | [Guardian News Aggregator](https://github.com/josephburgess/news-summary-challenge) | A web app for aggregating and filtering news articles from the Guardian API. Also utilises Pegasus Newsroom API to generate summaries of articles. | JavaScript, HTML, CSS, Jest | Build knowledge in JavaScript web apps, in particular with API calls and asynchronous programming & promises. | 2 days |
 | [Bank Tech Test](https://github.com/josephburgess/bank-tech-test) | A command-line banking application, part of the Tech Test solo week, week 10 of Makers | TypeScript, Jest, ts-node | Focus on a project with less time constraints in order to focus on rigorous TDD and clean readable code. I also took this week as an opportunity to learn TypeScript. | 2 days |
 | [Database Server Tech Test](https://github.com/josephburgess/database-server-tech-test) | A simple express.js database server app, part of the Tech Test solo week, week 10 of Makers | TypeScript, Jest, ts-node | Build on knowledge of express.js for web app routing, HTTP req/res, and controller logic. As with other tech tests this week, focus on clean code and rigorous TDD. | 1 day |
 | [Gilded Rose](https://github.com/josephburgess/gilded-rose) | A refactoring exercise for a legacy codebase, part of the Tech Test solo week, week 10 of Makers | TypeScript, Jest | Practice refactoring skills with an emphasis on clean, well tested code, working with a messy legacy program | 1 day |
+| [Acebook Air](https://github.com/josephburgess/acebook-mern) | Group project #2: a social media app built with the MERN stack | MongoDB, Express.js, React, Node.js, MongoDB Atlas, Mongoose, Render(deployment), Multer, Jest, Cypress | Build a full-stack web application using the MERN stack and improve experience working in an agile, collaborative environment. | 2 weeks |
 | [Bowling Score Calculator](https://github.com/josephburgess/bowling-challenge-js) | A bowling score calculator command line app, completed as a weekend challenge at the end of week six of Makers | JavaScript, Node.js, Jest | Applying logic from a previously completed challenge to a new language. Heavy emphasis on building TDD skills and familiarity with JavaScript/Jest | 2 days |
-| [Chitter Challenge](https://github.com/josephburgess/chitter-challenge) | A Twitter clone. Weekend challenge at the end of week four of Makers | Ruby, Sinatra, PostgreSQL, ERB, Rspec | Build a web app using Ruby / Sinatra, and consolidate learning of working with databases (PostgreSQL). | 2 days |
+| [Makers BnB](https://github.com/abodian/makersbnb-ruby-seed) | An AirBnB clone, our first group engineering project at Makers. Planned and completed in 4 days for our fifth week at Makers academy | Ruby, Sinatra, ActiveRecord, ERB, PostgreSQL, Rspec | Introduction to agile team practices and group work/contributions to Github | 4 days |
+| [Chitter](https://github.com/josephburgess/chitter-challenge) | A Twitter clone. Weekend challenge at the end of week four of Makers | Ruby, Sinatra, PostgreSQL, ERB, Rspec | Build a web app using Ruby / Sinatra, and consolidate learning of working with databases (PostgreSQL). | 2 days |
