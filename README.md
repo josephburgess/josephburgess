@@ -14,7 +14,15 @@ I am currently enrolled at Makers Academy, due to graduate in March 2023, and am
 
 ## Projects 📝
 
-Below is a selection of projects from the past few months at Makers, there is a more comprehensive list on my [CV on Github](https://github.com/josephburgess/cv)
+Below is a selection of projects from the past few months at Makers, there is a more comprehensive list on my CV.
+
+<!-- <p align="center"> -->
+ <a href = https://github.com/josephburgess/cv>
+    <img src="https://user-images.githubusercontent.com/4661986/220958138-f8fdb184-1ef2-4370-bd0f-d7f2a251d3f4.png"/>
+ </a>
+<!-- </p> -->
+
+
 
 ### Group Projects
 | Project Name | Description | Technologies Used | Purpose/Goal | Project Duration |
