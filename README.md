@@ -8,7 +8,9 @@ I am currently enrolled at Makers Academy, due to graduate in March 2023, and am
  | 📎 [Connect with me on LinkedIn](https://www.linkedin.com/in/josephburgessmba/) | 📄 [Check out my CV on Github](https://github.com/josephburgess/cv) | 📧 [Send me an email](mailto:josephburgess@gmail.com) | 📱 [Message me on WhatsApp](https://wa.me/447769325254?text=Hi%20Joe!,%20I%20saw%20your%20Github%20) |
 |--------------|-------------|-------------------|-------------|
 ## Tech I use
-[![My Skills](https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,jest,postgres,postman,ruby,rails,html,css,docker)](https://skillicons.dev)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,docker,jest,postgres,postman,ruby,rails,html,css&perline=7" />
+</p>
 
 ## Projects
 
