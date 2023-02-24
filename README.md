@@ -7,12 +7,11 @@ I am currently enrolled at Makers Academy, due to graduate in March 2023, and am
 ## Contact 📇
  | 📎 [Connect with me on LinkedIn](https://www.linkedin.com/in/josephburgessmba/) | 📄 [Check out my CV on Github](https://github.com/josephburgess/cv) | 📧 [Send me an email](mailto:josephburgess@gmail.com) | 📱 [Message me on WhatsApp](https://wa.me/447769325254?text=Hi%20Joe!,%20I%20saw%20your%20Github%20) |
 |--------------|-------------|-------------------|-------------|
-## Tech I use 🤹
+## Skills 🤹
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,docker,jest,postgres,postman,ruby,rails,html,css&perline=7" />
 </p>
 
-## CV
 <p align="center">
  <a href = https://github.com/josephburgess/cv>
     <img src="https://user-images.githubusercontent.com/4661986/220958138-f8fdb184-1ef2-4370-bd0f-d7f2a251d3f4.png"/>
