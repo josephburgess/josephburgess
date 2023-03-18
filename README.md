@@ -9,7 +9,7 @@ I am currently enrolled at Makers Academy, due to graduate in March 2023, and am
 |--------------|-------------|-------------------|-------------|
 ## Skills 🤹
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,docker,jest,postgres,postman,ruby,rails,html,css&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,python,flask,docker,jest,postgres,postman,ruby,rails,html,css&perline=7" />
 </p>
 
 <p align="center">
