@@ -1,4 +1,9 @@
-# Joseph Burgess 💻
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/4661986/226200050-8b992437-07b5-48b3-a22f-ae7262c52e62.svg" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Software+Engineer;Career+Changer;Makers+Graduate" />
+</p>
 
 I'm a former banking and finance professional who's always had a passion for cool tech. I spent 8+ years in financial PR, helping companies communicate their investment case in a clear and compelling way, but my love for computing and coding has led me to take the plunge and face new challenges in the tech industry. From building PCs for friends and family to experimenting with home servers and automating tasks with coding and scripting, I've always looked for ways to make life easier and more efficient with technology. 
 
@@ -25,11 +30,7 @@ Below is a selection of projects from the past few months at Makers, there is a 
 | Project Name | Description | Technologies Used | Purpose/Goal | Project Duration |
 |--------------|-------------|-------------------|--------------|-----------------|
 | [Step Free Gigs](https://github.com/josephburgess/StepFreeGigs/) | A mobile app for finding wheelchair accessible gigs in London with step-free navigation | React Native, Expo, Node.js, Express.js, Jest | Final project at Makers Academy, build a mobile app from the ground up, utilising several API calls while learning a new tech-stack. | 8 days |
-| [Guardian News Aggregator](https://github.com/josephburgess/news-summary-challenge) | A web app for aggregating and filtering articles from the Guardian API. Utilises Pegasus Newsroom API to generate summaries. | JavaScript, HTML, CSS, Jest | Build knowledge in JavaScript web apps, in particular with API calls and asynchronous programming & promises. | 2 days |
 | [Acebook Air](https://github.com/josephburgess/acebook-mern) | Group project #2: a social media app built with the MERN stack | MongoDB, Express.js, React, Node.js, Mongoose, Render(deployment), Multer, Jest, Cypress | Build a full-stack web application using the MERN stack and improve experience working in an agile, collaborative environment. | 2 weeks |
 | [Bank Tech Test](https://github.com/josephburgess/bank-tech-test) | A command-line banking application, part of the Tech Test solo week, week 10 of Makers | TypeScript, Jest, ts-node | Focus on a project with less time constraints in order to focus on rigorous TDD and clean readable code. I also took this week as an opportunity to learn TypeScript. | 2 days |
-| [Database Server Tech Test](https://github.com/josephburgess/database-server-tech-test) | A simple express.js database server app, part of the Tech Test solo week, week 10 of Makers | TypeScript, Jest, ts-node | Build on knowledge of express.js for web app routing, HTTP req/res, and controller logic. As with other tech tests this week, focus on clean code and rigorous TDD. | 1 day |
-| [Gilded Rose](https://github.com/josephburgess/gilded-rose) | A refactoring exercise for a legacy codebase, part of the Tech Test solo week, week 10 of Makers | TypeScript, Jest | Practice refactoring skills with an emphasis on clean, well tested code, working with a messy legacy program | 1 day |
-| [Bowling Score Calculator](https://github.com/josephburgess/bowling-challenge-js) | A bowling score calculator command line app, completed as a weekend challenge at the end of week six of Makers | JavaScript, Node.js, Jest | Applying logic from a previously completed challenge to a new language. Heavy emphasis on building TDD skills and familiarity with JavaScript/Jest | 2 days |
-| [Makers BnB](https://github.com/abodian/makersbnb-ruby-seed) | An AirBnB clone, our first group engineering project at Makers. Planned and completed in 4 days for our fifth week at Makers academy | Ruby, Sinatra, ActiveRecord, ERB, PostgreSQL, Rspec | Introduction to agile team practices and group work/contributions to Github | 4 days |
-| [Chitter](https://github.com/josephburgess/chitter-challenge) | A Twitter clone. Weekend challenge at the end of week four of Makers | Ruby, Sinatra, PostgreSQL, ERB, Rspec | Build a web app using Ruby / Sinatra, and consolidate learning of working with databases (PostgreSQL). | 2 days |
+| [Bowling Score Calculator](https://github.com/josephburgess/bowling-scorecard-python) | A bowling score calculator command line app, translated to Python from a previous Makers weekend project | Python, Pytest | Applying logic from a previously completed challenge to a new language - Python. | 1 day |
+|[Database Server](https://github.com/josephburgess/database-server-python) | A simple key-value store application providing two endpoints to set and get key-value pairs. | Python, Flask, MongoDB, Pytest | Improving understanding of Python syntax and building simple back-ends using Python/Flask | 1 day |
