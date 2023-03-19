@@ -2,7 +2,7 @@
  <img src="https://user-images.githubusercontent.com/4661986/226200050-8b992437-07b5-48b3-a22f-ae7262c52e62.svg" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Software+Engineer;Career+Changer;Makers+Graduate" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&width=435&lines=Full-Stack+Software+Engineer;Career+Changer;Makers+Graduate" />
 </p>
 
 I'm a former banking and finance professional who's always had a passion for cool tech. I spent 8+ years in financial PR, helping companies communicate their investment case in a clear and compelling way, but my love for computing and coding has led me to take the plunge and face new challenges in the tech industry. From building PCs for friends and family to experimenting with home servers and automating tasks with coding and scripting, I've always looked for ways to make life easier and more efficient with technology. 
