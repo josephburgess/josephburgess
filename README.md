@@ -7,7 +7,7 @@
 
 I'm a former banking and finance professional who's always had a passion for cool tech. I spent 8+ years in financial PR, helping companies communicate their investment case in a clear and compelling way, but my love for computing and coding has led me to take the plunge and face new challenges in the tech industry. From building PCs for friends and family to experimenting with home servers and automating tasks with coding and scripting, I've always looked for ways to make life easier and more efficient with technology. 
 
-I am currently enrolled at Makers Academy, due to graduate in March 2023, and am excited to be let loose on the tech world! See below for my CV, contact details, and list of projects. 
+I have just graduated from [Makers Academy](https://makers.tech/) and am excited to be let loose on the tech world! See below for my CV, contact details, and list of projects. 
 
 ## Contact 📇
  | 📎 [Connect with me on LinkedIn](https://www.linkedin.com/in/josephburgessmba/) | 📄 [Check out my CV on Github](https://github.com/josephburgess/cv) | 📧 [Send me an email](mailto:josephburgess@gmail.com) | 📱 [Message me on WhatsApp](https://wa.me/447769325254?text=Hi%20Joe!,%20I%20saw%20your%20Github%20) |
@@ -25,7 +25,7 @@ I am currently enrolled at Makers Academy, due to graduate in March 2023, and am
 
 ## Projects 📝
 
-Below is a selection of projects from the past few months at Makers, there is a more comprehensive list on my CV linked above.
+Below is a selection of recent projects, there is a more comprehensive list on my CV linked above.
 
 | Project Name | Description | Technologies Used | Purpose/Goal | Project Duration |
 |--------------|-------------|-------------------|--------------|-----------------|
