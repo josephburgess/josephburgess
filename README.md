@@ -11,7 +11,7 @@ I'm a former banking and finance professional who's always had a passion for coo
 I have just graduated from  [Makers Academy](https://makers.tech/) and am excited to be let loose on the tech world! See below for my CV, contact details, and list of projects. 
 
 ## Contact 📇
- | 📎 [Connect with me on LinkedIn](https://www.linkedin.com/in/josephburgessmba/) | 📄 [Check out my CV on Github](https://github.com/josephburgess/cv) | 📧 [Send me an email](mailto:josephburgess@gmail.com) | 📱 [Message me on WhatsApp](https://wa.me/447769325254?text=Hi%20Joe!,%20I%20saw%20your%20Github%20) |
+ | 📎 [Connect with me on LinkedIn](https://www.linkedin.com/in/josephburgessmba/) | 📄 [Check out my CV on Github](https://github.com/josephburgess/cv) | 📧 [Send me an email](mailto:josephburgess@gmail.com) | 📱 [Message me on WhatsApp](https://wa.me/447769325254?text=Hi%20Joe!%20I%20saw%20your%20Github%20) |
 |--------------|-------------|-------------------|-------------|
 ## Skills 🤹
 <p align="center">
