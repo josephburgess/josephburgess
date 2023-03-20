@@ -4,8 +4,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&width=435&lines=Full-Stack+Software+Engineer;Career+Changer;Makers+Graduate" />
 </p>
-
-I'm a former banking and finance professional who's always had a passion for cool tech. I spent 8+ years in financial PR, helping companies communicate their investment case in a clear and compelling way, but my love for computing and coding has led me to take the plunge and face new challenges in the tech industry. From building PCs for friends and family to experimenting with home servers and automating tasks with coding and scripting, I've always looked for ways to make life easier and more efficient with technology. 
+After spending 8+ years in corporate and financial PR, 
+I'm a former banking and finance professional who's always had a passion for cool tech. I spent 8+ years in financial PR, helping companies communicate their investment case in a clear and compelling way, but my love for computing and coding has led me to take the plunge and now, what was previously an obsessive hobby has become my full-time focus. From building PCs for friends and family to experimenting with home servers and automating tasks with coding and scripting, I've always looked for ways to make life easier and more efficient with technology. 
 
 I have just graduated from [Makers Academy](https://makers.tech/) and am excited to be let loose on the tech world! See below for my CV, contact details, and list of projects. 
 
