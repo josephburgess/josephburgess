@@ -31,11 +31,10 @@ I have just graduated from  [Makers Academy](https://makers.tech/) and am excite
 |--------------|-------------|-------------------|--------------|
 | [Long Covid Info Hub](https://github.com/josephburgess/long-covid-web-scraper) | An information hub collating recent news, research, and Reddit posts for long-covid sufferers to track the latest info on the disease | Python, TypeScript, React, Flask, MongoDB, Pytest, BeautifulSoup, Plotly | Building knowledge in Python, Flask, TypeScript and React following my bootcamp graduation, within a project I am extremely passionate about |
 
-### 🏁 Select other recently completed projects.
+### 🏁 Other recently completed projects.
 
 | Project Name | Description | Technologies Used | Purpose/Goal |
 |--------------|-------------|-------------------|--------------|
 | [Step Free Gigs](https://github.com/josephburgess/StepFreeGigs/) | A mobile app for finding wheelchair accessible gigs in London with step-free navigation | React Native, Expo, Node.js, Express.js, Jest | Final project at Makers Academy, build a mobile app from the ground up, utilising several API calls while learning a new tech-stack. |
 | [Acebook Air](https://github.com/josephburgess/acebook-mern) | Group project #2: a social media app built with the MERN stack | MongoDB, Express.js, React, Node.js, Mongoose, Render(deployment), Multer, Jest, Cypress | Build a full-stack web application using the MERN stack and improve experience working in an agile, collaborative environment. |
 | [Bank Tech Test](https://github.com/josephburgess/bank-tech-test) | A command-line banking application, part of the Tech Test solo week, week 10 of Makers | TypeScript, Jest, ts-node | Focus on a project with less time constraints in order to focus on rigorous TDD and clean readable code. I also took this week as an opportunity to learn TypeScript. |
-|[Database Server](https://github.com/josephburgess/database-server-python) | A simple key-value store application providing two endpoints to set and get key-value pairs. | Python, Flask, MongoDB, Pytest | Improving understanding of Python syntax and building simple back-ends using Python/Flask |
