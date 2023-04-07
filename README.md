@@ -29,7 +29,7 @@ I have just graduated from  [Makers Academy](https://makers.tech/) and am excite
 
 | Project Name | Description | Technologies Used | Purpose/Goal |
 |--------------|-------------|-------------------|--------------|
-| [Long Covid Info Hub](https://github.com/josephburgess/long-covid-web-scraper) | An information hub collating recent news and research for long-covid sufferers to track the latest info on the disease. | Python, TypeScript, React, Flask, MongoDB, Pytest, BeautifulSoup, Plotly | Solo project following my bootcamp graduation for a cause I am extremely passionate about. Improving knowledge in Python and TypeScript, building web scrapers, using APIs and working with data analysis tools. |
+| [Long Covid Info Hub](https://github.com/josephburgess/long-covid-web-scraper) | An information hub collating recent news and research for long-covid sufferers to track the latest info on the disease. | Python, TypeScript, React, Flask, MongoDB, Pytest, BeautifulSoup, Pandas, Plotly | Solo project following my bootcamp graduation for a cause I am extremely passionate about. Improving knowledge in Python and TypeScript, building web scrapers, using APIs and working with data analysis tools. |
 
 ### 🏁 Other recently completed projects.
 
