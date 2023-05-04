@@ -1,12 +1,4 @@
-<p align="center">
- <img src="https://user-images.githubusercontent.com/4661986/226200050-8b992437-07b5-48b3-a22f-ae7262c52e62.svg" />
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&width=435&lines=Full-Stack+Software+Engineer;Career+Changer;Makers+Graduate" />
-</p>
-Hi! I'm a former banking and finance professional who has always had a passion for cool tech. I have an economics background and, after completing an MBA, spent 8+ years helping companies communicate their investment case in a clear and compelling way, however my love for computing and coding has led me to finally take the plunge and pursure new challenges in tech. Now, what was previously an obsessive hobby has become my full-time focus, which is really exciting! From building PCs for friends and family to experimenting with home servers and automating tasks with coding and scripting, I've always looked for ways to make life easier and more efficient with technology.
-
-I have just graduated from [Makers Academy](https://makers.tech/) and am excited to be let loose on the tech world! See below for my CV, contact details, and list of projects. 
+Hi! I'm a former banking and finance professional who has always had a passion for cool tech. I have an economics background and, after completing an MBA, spent 8+ years helping companies communicate their investment case in a clear and compelling way, however in 2022 my love for computing and coding led me to finally take the plunge and pursure new challenges in tech. Now, what was previously an obsessive hobby has become my full-time focus, which is really exciting! 
 
 ## Contact 📇
  | 📎 [Connect with me on LinkedIn](https://www.linkedin.com/in/josephburgessmba/) | 📄 [Check out my CV on Github](https://github.com/josephburgess/cv) | 📧 [Send me an email](mailto:josephburgess@gmail.com) | 📱 [Message me on WhatsApp](https://wa.me/447769325254?text=Hi%20Joe!%20I%20saw%20your%20Github%20) |
