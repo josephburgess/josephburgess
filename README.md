@@ -5,7 +5,7 @@ Hi! I'm a former banking and finance professional who has always had a passion f
 |--------------|-------------|-------------------|-------------|
 ## Skills 🤹
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,python,flask,docker,jest,postgres,postman,ruby,rails,html,css&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,mongodb,graphql,react,nodejs,python,flask,express,aws,githubactions,docker,jest,postgres,bash,gherkin,jenkins,postman,ruby,rails,html,css&perline=11" />
 </p>
 
 <p align="center">
